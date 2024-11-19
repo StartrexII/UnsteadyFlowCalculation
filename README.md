@@ -40,5 +40,5 @@ git clone https://github.com/StartrexII/UnsteadyFlowCalculation.git
 
 ## Авторы
 
-* [Егор Орлов](https://vk.com/liquidlogic))
+* [Егор Орлов](https://vk.com/liquidlogic)
 
